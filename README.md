@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6e985c5-8c0c-4532-9069-9db8ba2a6419" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d6e985c5-8c0c-4532-9069-9db8ba2a6419" />
 
 
 Daily pulls from abuse.ch for IOC's related to the most popular information stealer campaigns, in particular ones related to the "Clickfix" social engineering tactic. 
