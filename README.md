@@ -1,6 +1,6 @@
 Daily pulls from abuse.ch for IOC's related to the most popular information stealer campaigns, in particular ones related to the "Clickfix" social engineering tactic. 
 
-<img width="681" height="766" alt="image" src="https://github.com/user-attachments/assets/9457c001-14cd-4f1b-af21-4f42772a2ed3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9457c001-14cd-4f1b-af21-4f42772a2ed3" />
 
 The campaign leverages legitimate looking CAPTCHA pages in order to trick users into following the commands and running malicious code on their systems, ultimately leading to maliciuos payloads being downloaded and executed. By aggregating IOC's related to this campaign, my hope is to enable practitioners to hunt within thier own environement and report sites hosting these types of attacks.
 
